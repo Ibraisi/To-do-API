@@ -1,4 +1,4 @@
-# toDoApi
+# To-do-API
 simple toDo api with kotlin and spring boot
 
 ## Here are the endspoints : 
